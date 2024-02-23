@@ -17,5 +17,5 @@ export default function HomeSectionListStream({title, children}: CProps) {
         </div>
       </div>
     </div>
-  )
+  );
 }
